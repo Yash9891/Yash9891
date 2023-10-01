@@ -1,4 +1,4 @@
-<p height="300" align="center">Hi there😶, I'm Yash</p>
+<p align="center">#Hi there😶, I'm Yash</p>
 <p align="center">A passionate Full Stack developer.</p>
 
 - 🔭 I’m currently working on **Full Stack Project**
