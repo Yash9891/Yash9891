@@ -1,8 +1,6 @@
 <p align="center">Hi there😶, I'm Yash</p>
 <p align="center">A passionate Full Stack developer.</p>
 
-- 🔭 I’m currently working on **Full Stack Project**
-
 - 💻I’m currently learning **Full Stack Development and Machine Learning.**
 
 <p align="left">Connect with me</p>
