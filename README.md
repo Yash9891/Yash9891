@@ -1,4 +1,4 @@
-<h1 align="center">Hi there😶, I'm Yash</h1>
+<h1 style="color:purple;" align="center">Hi there😶, I'm Yash</h1>
 <h3 align="center">A passionate Full Stack developer.</h3>
 
 - 🔭 I’m currently working on **Full Stack Project**
