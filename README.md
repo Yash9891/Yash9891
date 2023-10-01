@@ -2,6 +2,9 @@
 <p align="center">A passionate Full Stack developer.</p>
 
 - 💻I’m currently learning **Full Stack Development and Machine Learning.**
+- 🌟I'm that person who loves turning 🎨creative ideas into **Visually Stunning Websites.**
+- 🤖I'm also fascinated by the world of **AI and Machine Learning.**
+- 🌠I'm always excited to learn new stuff and meet fellow tech enthusiasts.
 
 <p align="left">Connect with me</p>
 <p align="left">
