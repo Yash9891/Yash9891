@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full Stack Project**
 
-- 💻I’m currently learning **Full Stack and Machine Learning.**
+- 💻I’m currently learning **Full Stack Development and Machine Learning.**
 
 <p align="left">Connect with me</p>
 <p align="left">
