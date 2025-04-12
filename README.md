@@ -20,7 +20,6 @@ Data Engineer
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KOgVIC6Yej9Qs19gSQcAWBln1FIBk1rR/view?usp=sharing)
 
-* 🌍  I'm based in India
 * ✉️  You can contact me at [yash042002@gmail.com](mailto:yash042002@gmail.com)
 
 
