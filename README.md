@@ -1,13 +1,7 @@
-![1_0N8CVKix7OGfBDsgh9DzrQ](https://github.com/user-attachments/assets/fca499db-89fa-4720-a1d5-24ac6eee53cb)
-
-
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yash
 ============================================================================================================================
- 
-
-
-
+![1_0N8CVKix7OGfBDsgh9DzrQ](https://github.com/user-attachments/assets/fca499db-89fa-4720-a1d5-24ac6eee53cb)
 
 Data Engineer
 --------------------------------------------------
