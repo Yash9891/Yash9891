@@ -3,20 +3,23 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================
 ![1_0N8CVKix7OGfBDsgh9DzrQ](https://github.com/user-attachments/assets/fca499db-89fa-4720-a1d5-24ac6eee53cb)
 
-Data Engineer
+Data Scientist
 --------------------------------------------------
 
-𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐢𝐧𝐭𝐞𝐫𝐧𝐢𝐧𝐠 𝐚𝐭 𝐂𝐨𝐠𝐧𝐢𝐳𝐚𝐧𝐭 𝐚𝐬 𝐚 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫 𝐀𝐧𝐚𝐥𝐲𝐬𝐭 𝐓𝐫𝐚𝐢𝐧𝐞𝐞, 𝐰𝐡𝐞𝐫𝐞 𝐈’𝐦 𝐠𝐚𝐢𝐧𝐢𝐧𝐠 𝐡𝐚𝐧𝐝𝐬-𝐨𝐧 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐢𝐧 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐢𝐧𝐠, 𝐨𝐩𝐭𝐢𝐦𝐢𝐳𝐢𝐧𝐠, 𝐚𝐧𝐝 𝐝𝐞𝐩𝐥𝐨𝐲𝐢𝐧𝐠 𝐜𝐥𝐨𝐮𝐝-𝐛𝐚𝐬𝐞𝐝 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 𝐮𝐬𝐢𝐧𝐠 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐀𝐳𝐮𝐫𝐞.
-𝐈’𝐦 𝐩𝐮𝐫𝐬𝐮𝐢𝐧𝐠 𝐁.𝐓𝐞𝐜𝐡 𝐢𝐧 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐚 𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐚𝐭 𝐒𝐑𝐌 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲. 𝐈’𝐦 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐚𝐛𝐨𝐮𝐭 𝐥𝐞𝐯𝐞𝐫𝐚𝐠𝐢𝐧𝐠 𝐜𝐥𝐨𝐮𝐝 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐭𝐨 𝐛𝐮𝐢𝐥𝐝 𝐬𝐜𝐚𝐥𝐚𝐛𝐥𝐞, 𝐬𝐞𝐜𝐮𝐫𝐞, 𝐚𝐧𝐝 𝐢𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐭 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬.
-𝐌𝐲 𝐭𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐞𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 𝐢𝐧𝐜𝐥𝐮𝐝𝐞𝐬 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐀𝐳𝐮𝐫𝐞 𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬 𝐥𝐢𝐤𝐞 𝐀𝐳𝐮𝐫𝐞 𝐃𝐚𝐭𝐚𝐟𝐚𝐜𝐭𝐨𝐫𝐲, 𝐀𝐳𝐮𝐫𝐞 𝐒𝐲𝐧𝐚𝐩𝐬𝐞 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬, 𝐀𝐳𝐮𝐫𝐞 𝐃𝐚𝐭𝐚 𝐋𝐚𝐤𝐞, 𝐒𝐐𝐋 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞, 𝐀𝐳𝐮𝐫𝐞 𝐒𝐭𝐨𝐫𝐚𝐠𝐞 𝐚𝐧𝐝 𝐖𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭. 𝐈’𝐦 𝐚𝐥𝐬𝐨 𝐰𝐞𝐥𝐥-𝐯𝐞𝐫𝐬𝐞𝐝 𝐢𝐧 𝐂𝐥𝐨𝐮𝐝 𝐂𝐨𝐦𝐩𝐮𝐭𝐢𝐧𝐠 𝐟𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬, 𝐁𝐢𝐠 𝐃𝐚𝐭𝐚, 𝐏𝐲𝐭𝐡𝐨𝐧, 𝐒𝐐𝐋, 𝐚𝐧𝐝 𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 & 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬.
+🚀 About Me
 
-🔧 𝐈’𝐦 𝐚𝐜𝐭𝐢𝐯𝐞𝐥𝐲 𝐬𝐭𝐫𝐞𝐧𝐠𝐭𝐡𝐞𝐧𝐢𝐧𝐠 𝐦𝐲 𝐬𝐤𝐢𝐥𝐥𝐬 𝐢𝐧 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐀𝐳𝐮𝐫𝐞 𝐂𝐥𝐨𝐮𝐝, 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 𝐚𝐧𝐝 𝐬𝐞𝐫𝐯𝐞𝐫𝐥𝐞𝐬𝐬 𝐜𝐨𝐦𝐩𝐮𝐭𝐢𝐧𝐠 𝐭𝐨 𝐝𝐞𝐥𝐢𝐯𝐞𝐫 𝐞𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐭, 𝐩𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧-𝐫𝐞𝐚𝐝𝐲 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬.
+I’m a Programmer Analyst Trainee at Cognizant, where I work on analyzing data, integrating cloud services, and building intelligent solutions using Microsoft Azure and Generative AI.
+My work involves developing and optimizing data workflows, performing insightful data analysis, and deploying AI-powered, cloud-based applications that drive business efficiency.
+
+🎓 I’ve completed my B.Tech in Computer Science and Engineering (CSE) with a specialization in Artificial Intelligence & Machine Learning from SRM University.
+
+I’m passionate about transforming data into insights and ideas into scalable solutions, leveraging Python, MySQL, Power BI, and Azure Cloud to build intelligent, data-driven systems and modern web applications.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash9891&label=Profile%20views&color=0e75b6&style=flat" alt="yash9891" /> </p>
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://yash042002.netlify.app/)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KOgVIC6Yej9Qs19gSQcAWBln1FIBk1rR/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1C2cLuxFZjCICYSuAqRnY3QzS4aq35vVa/view?usp=sharing)
 
 * ✉️  You can contact me at [yash042002@gmail.com](mailto:yash042002@gmail.com)
 
